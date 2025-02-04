@@ -24,11 +24,13 @@ This application allows users to securely encode and decode messages using class
 
 **Polish Alphabet:** Allows the use of the Polish alphabet, including Polish letters.
 
-##Interface:
+## Interface:
 
-Main Menu
+**Main Menu**
+
 ![image](https://github.com/user-attachments/assets/c3bf1e1f-674d-47fd-ab0f-1609fbbaf106)
 
-Polybius Cipher
+**Polybius Cipher**
+
 ![image](https://github.com/user-attachments/assets/ac311f89-8057-4271-99d7-ab9e71f9cf47)
 
