@@ -79,5 +79,10 @@ namespace EncryptionAplication
         {
             this.Close();
         }
+
+        private void groupEncryption_Enter(object sender, EventArgs e)
+        {
+
+        }
     }
 }

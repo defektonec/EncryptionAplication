@@ -51,7 +51,7 @@
             groupBox1.Size = new Size(342, 134);
             groupBox1.TabIndex = 32;
             groupBox1.TabStop = false;
-            groupBox1.Text = "Decryption";
+            groupBox1.Text = "Decrypted Text";
             // 
             // decryptionOutput
             // 
@@ -85,7 +85,7 @@
             groupEncryption.Size = new Size(342, 134);
             groupEncryption.TabIndex = 31;
             groupEncryption.TabStop = false;
-            groupEncryption.Text = "Encryption";
+            groupEncryption.Text = "Encrypted Text";
             // 
             // encryptedOutput
             // 
