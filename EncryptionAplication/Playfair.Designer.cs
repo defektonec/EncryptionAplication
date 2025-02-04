@@ -173,6 +173,7 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Name = "Playfair";
+            StartPosition = FormStartPosition.CenterParent;
             Text = "Playfair";
             groupBox1.ResumeLayout(false);
             groupBox1.PerformLayout();
